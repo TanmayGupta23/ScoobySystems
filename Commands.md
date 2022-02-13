@@ -8,9 +8,7 @@
 
 cd;cd /home/hadoop/**\<parent directory\>**;sudo rm **\<jar name\>**.jar;sudo rm -r **\<package name\>**;rm Main.java
 
-<ins>*(Not always necessary) Move Main.java from downloads to HadoopIterativeTesting*</ins>
-
-cd;cd /home/tanmay/Downloads;mv Main.java /home/hadoop/HadoopIterativeTesting;su hadoop
+<ins>*(Not always necessary) Move Main.java from downloads to **\<parent directory\>***</ins>
 
 <ins>*Switch to Hadoop user*</ins>
 
