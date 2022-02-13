@@ -3,7 +3,7 @@
 *Our setup had a user named “hadoop” - please adjust the code depending on your specific username*
 
 
-*(Not always necessary) Remove old-versions of MapReduce files (Note: user should be default - with permissions to manipulate files)*
+<ins>*(Not always necessary) Remove old-versions of MapReduce files (Note: user should be default - with permissions to manipulate files)*</ins>
 
 cd;cd /home/hadoop/**\<parent directory\>**;sudo rm **\<jar name\>**.jar;sudo rm -r **\<package name\>**;rm Main.java
 
