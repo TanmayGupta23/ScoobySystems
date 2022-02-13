@@ -5,6 +5,7 @@
 
 
 <ins>*(Not always necessary) Remove old-versions of MapReduce files (Note: user should be default - with permissions to manipulate files)*</ins>
+<br/><br/>
 cd;cd /home/hadoop/**\<parent directory\>**;sudo rm **\<jar name\>**.jar;sudo rm -r **\<package name\>**;rm Main.java
 
 <ins>*(Not always necessary) Move Main.java from downloads to **\<parent directory\>***</ins>
