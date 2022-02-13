@@ -2,7 +2,7 @@
 **\<parent directory\>** *= directory that will store Main.java, package, and jar file*
 
 *Our setup had a user named “hadoop” - please adjust the code depending on your specific username*
-
+<br/><br/><br/><br/>
 
 <ins>*(Not always necessary) Remove old-versions of MapReduce files (Note: user should be default - with permissions to manipulate files)*</ins>
 
