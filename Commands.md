@@ -22,7 +22,7 @@ su hadoop
 cd;cd **\<parent directory\>**;export HADOOP\_CLASSPATH="/home/hadoop/hadoop-3.3.1/etc/hadoop:/home/hadoop/hadoop-3.3.1/share/hadoop/common/lib/\*:/home/hadoop/hadoop-3.3.1/share/hadoop/common/\*:/home/hadoop/hadoop-3.3.1/share/hadoop/hdfs:/home/hadoop/hadoop-3.3.1/share/hadoop/hdfs/lib/\*:/home/hadoop/hadoop-3.3.1/share/hadoop/hdfs/\*:/home/hadoop/hadoop-3.3.1/share/hadoop/mapreduce/\*:/home/hadoop/hadoop-3.3.1/share/hadoop/yarn:/home/hadoop/hadoop-3.3.1/share/hadoop/yarn/lib/\*:/home/hadoop/hadoop-3.3.1/share/hadoop/yarn/\*:/home/hadoop/json-simple-1.1.1.jar";export CLASSPATH="$HADOOP\_HOME/share/hadoop/mapreduce/hadoop-mapreduce-client-core-3.3.1.jar:$HADOOP\_HOME/share/hadoop/mapreduce/hadoop-mapreduce-client-common-3.3.1.jar:$HADOOP\_HOME/share/hadoop/common/hadoop-common-3.3.1.jar:~/**\<parent directory\>**/\*:$HADOOP\_HOME/lib/\*:/home/hadoop/json-simple-1.1.1.jar"
 <br/><br/>
 
-<ins>*Start up Hadoop*</ins
+ <ins>*Start up Hadoop*</ins>
   
 $HADOOP\_HOME/sbin/start-dfs.sh;$HADOOP\_HOME/sbin/start-yarn.sh
 <br/><br/>
